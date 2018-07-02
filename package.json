@@ -1,0 +1,12 @@
+{
+  "name": "wordigrade",
+  "version": "0.0.0",
+  "description": "Locale and documentation for Cloud Meter.",
+  "author": "Red Hat",
+  "license": "GPL-3.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudigrade/wordigrade.git"
+  }
+}
