@@ -1,0 +1,17 @@
+// Cloud Meter toolbar
+// embedded assistance strings
+
+// COMPONENT NAME: Toolbar
+
+[[toolbar]]
+= Toolbar
+
+// WIDGET NAME: Export (button)
+
+[[export]]
+== Export
+
+[[export-tooltip]]
+=== Export tooltip
+
+Export data from the current view to a JSON file.
