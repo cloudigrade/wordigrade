@@ -1,0 +1,7 @@
+{
+  "toolbar": {
+    "export": {
+      "export-tooltip": "Export data from the current view to a JSON file."
+    }
+  }
+}
