@@ -1,0 +1,12 @@
+### STAGES ###
+stages:
+  - test
+
+### TEST STAGE ###
+Yarn:
+  stage: test
+  image: node:10
+  before_script:
+    - yarn
+  script:
+    - yarn test
